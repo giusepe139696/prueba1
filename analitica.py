@@ -3,7 +3,7 @@ if numero < 0:
     print("¡Le he dicho que escriba un número positivo!")
 print(f"Ha escrito el número {numero}")
 
-<<<<<<< HEAD
+
 #Aqui comienzo a desarrollar codigo nuevo 
 edad = int(input("¿Cuántos años tiene? "))
 if edad < 18:
@@ -45,7 +45,6 @@ else:
  # muchas ojeras 
  # fumas demasiado xD
 
-=======
 
 #describir errores
->>>>>>> main
+
