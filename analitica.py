@@ -4,9 +4,15 @@ if numero < 0:
 print(f"Ha escrito el número {numero}")
 
 #Aqui comienzo a desarrollar codigo nuevo 
-if condición:
-    aquí van las órdenes que se ejecutan si la condición es cierta
-    y que pueden ocupar varias líneas
+edad = int(input("¿Cuántos años tiene? "))
+if edad < 18:
+    print("Es usted menor de edad")
+if edad >= 18:
+    print("Es usted mayor de edad")
+print("¡Hasta la próxima!")
+edad = int(input("¿Cuántos años tiene? "))
+if edad < 120:
+    pass
 else:
-    y aquí van las órdenes que se ejecutan si la condición es
-    falsa y que también pueden ocupar varias líneas
+    print("¡No me lo creo!")
+print(f"Usted dice que tiene {edad} años.")
