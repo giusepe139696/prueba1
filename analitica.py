@@ -34,3 +34,6 @@ else:
   #analisis de errores 2 modulos flotantes xD
 
 #correccion no existen modulos flotantes
+
+#describir errores
+
