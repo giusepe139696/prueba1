@@ -33,3 +33,4 @@ else:
   #proxima prueba 2
   #analisis de errores 2 modulos flotantes xD
 
+#correccion no existen modulos flotantes
