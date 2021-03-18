@@ -33,3 +33,6 @@ else:
   #proxima prueba 2
   #analisis de errores 2 modulos flotantes xD
 
+ # dientes amarillos 
+ # muchas ojeras 
+ # fumas demasiado xD
