@@ -29,4 +29,14 @@ else:
   #proxy.py utilizado para escuchar la cola de mensajes
   # edad = int(input("¿Cuántos años tiene? "))
 
+<<<<<<< HEAD
 #puede funcionar esto si o no?
+=======
+
+  #proxima prueba 2
+  #analisis de errores 2 modulos flotantes xD
+
+ # dientes amarillos 
+ # muchas ojeras 
+ # fumas demasiado xD
+>>>>>>> proxima-prueba2
