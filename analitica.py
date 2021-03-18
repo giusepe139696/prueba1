@@ -24,3 +24,11 @@ print(f"Usted dice que tiene {edad} años.")
 #Dockerfile.rabbit utilizado para instalar los plugins de conexion de rabbit y habilitar mqtt y mqttweb,mantencion de zona horaria zona horaria America/Bogota 
 #Dockerfile.analitica utilizada para instalar las librerias para hacer analitica que son numpy,pandas,scikit-learn,pika para la comunicacion con rabbit, scipy,paho-mqtt para la comunicacion mqtt
 #proxy.py utilizado para escuchar la cola de mensajes 
+edad = int(input("¿Cuántos años tiene? "))
+if edad < 18:
+    print("Es usted menor de edad")
+print("Recuerde que está en la edad de aprender")
+else:
+    print("Es usted mayor de edad")
+    print("Recuerde que debe seguir aprendiendo")
+print("¡Hasta la próxima!")
